@@ -37,7 +37,7 @@ export default class Mensaje extends Component {
                                 <label className="user-send-name">Usuario Envía</label>
                             </div>
                             <p>Puff...</p>
-                            <p>Aún estoy haciendo el contexto de Góngora... <emoji className="books" /></p>
+                            <p>Aúnh estoy haciendo el contexto de Góngora... <emoji className="books" /></p>
                             <p>Mejor otro día</p>
                             <time>20:18</time>
                         </div>

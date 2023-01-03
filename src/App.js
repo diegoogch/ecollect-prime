@@ -10,14 +10,14 @@ import Registrar from './components/registrar/Registrar';
 
 function App() {
   return (
-      <BrowserRouter>
+      // <BrowserRouter>
         <Switch>
           <Route exact path="/" element={<Index/>} />
           <Route path="/dashboard" element={<Dashboard/>} />
           <Route path="/login" element={<Login/>} />
           <Route path="/registrar" element={<Registrar/>} />
         </Switch>
-      </BrowserRouter>
+      // </BrowserRouter>
   );
 }
 
