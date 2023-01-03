@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cad3ff565ffc13ae31261405b0ec28e1",
+    "revision": "7861f8ff2ed56ff91e4bba9fc4aa488f",
     "url": "/ecollect-prime/index.html"
   },
   {
-    "revision": "baf1c1ae59341bb8cc1f",
+    "revision": "00ee3830d6129043437b",
     "url": "/ecollect-prime/static/css/2.f1d36a8f.chunk.css"
   },
   {
-    "revision": "0bba4cc00cff19f83657",
+    "revision": "2613fe2fd2c8c6aee6a3",
     "url": "/ecollect-prime/static/css/main.821e1f4b.chunk.css"
   },
   {
-    "revision": "baf1c1ae59341bb8cc1f",
-    "url": "/ecollect-prime/static/js/2.d4dff009.chunk.js"
+    "revision": "00ee3830d6129043437b",
+    "url": "/ecollect-prime/static/js/2.d44df2dd.chunk.js"
   },
   {
-    "revision": "0bba4cc00cff19f83657",
-    "url": "/ecollect-prime/static/js/main.56302da5.chunk.js"
+    "revision": "2613fe2fd2c8c6aee6a3",
+    "url": "/ecollect-prime/static/js/main.916a3b0b.chunk.js"
   },
   {
     "revision": "aa0c6ac264b07a0181cf",
